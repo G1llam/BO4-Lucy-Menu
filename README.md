@@ -8,4 +8,5 @@ I just wanted to release a FREE public BO4 zombie menu so people can mess around
 
 Credits:
 Gillam
+Sinful
 If I missed you and you feel like you deserve credits then lmk!
