@@ -7,6 +7,6 @@ I still have to finish off, 100 Percenter, plasma and 4 weapon camos.
 I just wanted to release a FREE public BO4 zombie menu so people can mess around and edit some of your stats and rank.
 
 Credits:
-Gillam
+Gillam,
 Sinful
 If I missed you and you feel like you deserve credits then lmk!
