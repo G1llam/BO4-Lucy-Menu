@@ -3,7 +3,7 @@ This is a FREE BO4 GSC Zombie mod menu!
 This menu is currently set to only work on IX and is open source so feel free to do whatever you want to it or with it :)
 
 
-## HOW TO INSTALL:
+## HOW TO INSTALL
 Step 1 -> Watch and follow along this youtube video to correctly install the injector and learn how to inject: https://youtu.be/AGcMTisF6iA
 
 Step 2 -> Download the files here on github (https://github.com/G1llam/BO4-Lucy-Menu)
