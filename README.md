@@ -5,7 +5,9 @@ This menu is currently set to only work on IX and is open source so feel free to
 
 HOW TO INSTALL:
 Step 1 -> Watch and follow along this youtube video to correctly install the injector and learn how to inject: https://youtu.be/AGcMTisF6iA
+
 Step 2 -> Download the files here on github and replace them with the default project you make within the Installer.exe (https://github.com/G1llam/BO4-Lucy-Menu)
+
 Step 3 -> Launch BO4 and go to zombies and then inject when pre game and start the map called IX.
 
 ==== Version 1.2.1 ====
