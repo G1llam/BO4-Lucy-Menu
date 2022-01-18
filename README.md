@@ -1,4 +1,4 @@
-# BO4-Lucy-Menu
+# BO4 LUCY MENU
 This is a FREE BO4 GSC Zombie mod menu! 
 This menu is currently set to only work on IX and is open source so feel free to do whatever you want to it or with it :)
 
@@ -37,7 +37,7 @@ This update will make it easier to inject the menu due to me fixing the part whe
 
 
 
-## Credits
+## CREDITS
 Gillam,
 Sinful
 If I missed you and you feel like you deserve credits then lmk!
