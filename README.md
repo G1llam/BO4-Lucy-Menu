@@ -24,7 +24,6 @@ Step 3 -> Launch BO4 and go to zombies then go into a solo IX pre game lobby and
  - Added Unlock All
  - Dark Matter
  - 100 Percenter
- - Complete Active Contracts
  - Added Account Options To Player Menu
  - Can now edit other peoples stats without them needing to download the menu
  - Changed Stats Menu Options To Int Sliders So User Can Pick Their Own Values
@@ -38,4 +37,3 @@ Step 3 -> Launch BO4 and go to zombies then go into a solo IX pre game lobby and
 ## CREDITS
 Gillam,
 Sinful
-If I missed you and you feel like you deserve credits then lmk!
