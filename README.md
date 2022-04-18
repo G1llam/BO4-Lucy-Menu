@@ -36,4 +36,4 @@ Step 3 -> Launch BO4 and go to zombies then go into a solo IX pre game lobby and
 
 ## CREDITS
 Gillam,
-Sinful
+CF4_99
