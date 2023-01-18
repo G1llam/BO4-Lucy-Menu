@@ -42,5 +42,7 @@ CF4_99
 whatwhatboy - leech who doesnt feel its right to credit anyone when making videos on other peoples work, read below.
 
 "but imagine caring so much about credit" 
+
 "you can see all my videos i don't give credit"
+
 "so if you care so much about your stuff simple don't public them"
