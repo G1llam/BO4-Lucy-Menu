@@ -37,3 +37,9 @@ Step 3 -> Launch BO4 and go to zombies then go into a solo IX pre game lobby and
 ## CREDITS
 Gillam,
 CF4_99
+
+## LEECH
+whatwhatboy - leech who doesnt feel its right to credit anyone when making videos on other peoples work, read below.
+"but imagine caring so much about credit" 
+"you can see all my videos i don't give credit"
+"so if you care so much about your stuff simple don't public them"
